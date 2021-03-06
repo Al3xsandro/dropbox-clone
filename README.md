@@ -13,7 +13,7 @@ Dropbox é um serviço para armazenamento e partilha de arquivos que foi base de
 
 <h5>Teste a aplicação:</h5>
 
-* `https://dropboxclone-psi.vercel.app/`
+* `https://dropbox-clone-nine.vercel.app/`
 
 
 <h5>Projeto construido atráves de uma série do canal da rocketseat, conheça a plataforma você também!</h5>
