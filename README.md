@@ -18,4 +18,4 @@ Dropbox é um serviço para armazenamento e partilha de arquivos que foi base de
 
 <h5>Projeto construido atráves de uma série do canal da rocketseat, conheça a plataforma você também!</h5>
 
-* `https://rocketseat.com/`
+* `https://rocketseat.com.br/`
